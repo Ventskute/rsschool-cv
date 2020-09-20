@@ -1,0 +1,10 @@
+body {
+  background-color: #eeeeee;
+  max-width: 1024px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+img {
+  width: 400px;
+}
